@@ -1,0 +1,11 @@
+
+Version 2.04: released on July 13th, 2012
+Compile Dec 23 2013	10:45:55
+
+********************
+Pregraph
+********************
+
+Parameters: pregraph -s config_file -K 63 -R -o graph_prefix 
+
+Cannot open config_file. Now exit to system...
